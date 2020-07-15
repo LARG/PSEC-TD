@@ -1,0 +1,9 @@
+results/*
+protos/*
+*__pycache__/*
+method*
+core_results/*
+icml_results/*
+*.pdf
+policies/*
+policies_final/*

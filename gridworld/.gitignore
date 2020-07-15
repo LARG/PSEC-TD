@@ -1,0 +1,14 @@
+results/*
+main
+obj/*
+value.txt
+test.err
+python/
+*.est
+*.opt
+np
+os
+sys
+plt
+__pycache__/*
+*.pdf

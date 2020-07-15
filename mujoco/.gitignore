@@ -1,0 +1,8 @@
+policies/*
+*.pdf
+results/*
+protos/*
+*__pycache__/*
+method*
+psec_pi_dir/*
+gen_pol/*
